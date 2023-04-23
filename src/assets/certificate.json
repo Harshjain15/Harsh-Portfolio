@@ -1,0 +1,37 @@
+{
+    "projects": [
+      {
+        "title": "RTU Hackathon 2020",
+        "description": "It is Platform where More than 100 college teams participate and make a project for the Development of the city. ",
+        "imgSrc": "https://raw.githubusercontent.com/Harshjain15/Certificate/main/RTU%20Hackathon1.jpg"
+      },
+  
+      {
+        "title": "MicroSoft AI Azure Fundamentals",
+        "description": "The Azure AI Fundamentals course is designed for anyone interested in learning about the types of solution artificial intelligence (AI) makes possible, and the services on Microsoft Azure that you can use to create them",
+        "imgSrc": "https://raw.githubusercontent.com/Harshjain15/Certificate/main/Microsoft1.jpg"
+      },
+      {
+        "title": "Internship Training",
+        "description": "I had Done my Summer Internship From ANB Solutions where I learnt about the Frontend Web designing.",
+        "imgSrc": "https://raw.githubusercontent.com/Harshjain15/Certificate/main/Harsh%20Jain%20InternShip%20Certificat1.jpg"
+      },
+  
+      {
+        "title": "AWS Educate",
+        "description": "Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud, offering over 200 fully featured services from data centers globally. ",
+        "imgSrc": "https://raw.githubusercontent.com/Harshjain15/Certificate/main/AWS1.png"
+      },
+      {
+        "title": "Poornima Hackathon 2023",
+        "description": " This certificate is achieved recently and the Hackathon is organise by the Poornima and in the Our team made a Doubt Solving Web Application named as HarJagehLearning.",
+        "imgSrc": "https://raw.githubusercontent.com/Harshjain15/Certificate/main/Poornima.jpg "
+      },
+      {
+        "title": "Technovation 2021",
+        "description": " It provide a platform to researchers from industry and academia, scientists, and the students of undergraduate, postgraduate, and doctoral programs on current thrust areas of various disciplines of Engineering and Technology",
+        "imgSrc": "https://raw.githubusercontent.com/Harshjain15/Certificate/main/technovation%20(1).jpg "
+      }
+    ]
+  }
+  

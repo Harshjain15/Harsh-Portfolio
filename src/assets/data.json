@@ -1,0 +1,36 @@
+{
+  "projects": [
+    {
+      "date": "07/10/2020",
+      "title": "Library Management System",
+      "description": " It is software that is designed to manage all the functions of library. Language used: Python, MySQL. Technology used: VS code",
+      "imgSrc": "https://raw.githubusercontent.com/Harshjain15/Certificate/main/library.jpg"
+    },
+
+    {
+      "date": "24/05/2021",
+      "title": "A Language Translator",
+      "description": "It is a Web Application which Translates into 27 Languages from One to another. In this Project I used FrontEnd Part Of Web Development.",
+      "imgSrc": "https://cdn.pixabay.com/photo/2016/11/21/12/51/mobile-phone-1845233__340.jpg"
+    },
+    {
+      "date": "18/03/2022",
+      "title": "HarJagehLearning",
+      "description": "It is a Doubt Solving Website which solves the Doubt of B.Tech Student in each and every field. In this Project we create our own small chatGPT with the help of Python Libraries ,i.e, OpenCV.",
+      "imgSrc": "https://raw.githubusercontent.com/Harshjain15/Certificate/main/Harjagehlearning1.jpg"
+    },
+
+    {
+      "date": "17/10/2022",
+      "title": "The Drum Kit",
+      "description": "It is JavaScript Program Which is a bascis of JavaScript and Its a simple way to take the input from the Keyboard using JS and produce a Sound while on click and Key Press.",
+      "imgSrc": "https://raw.githubusercontent.com/Harshjain15/Certificate/main/Drumkit1.jpg"
+    },
+    {
+      "date": "20/04/2023",
+      "title": "PORTFOLIO",
+      "description": " It is Resume Webpage of Myself Which is created by the help of Node.js. In this All the Neccassary Information of MySelf is Present.",
+      "imgSrc": "https://raw.githubusercontent.com/Harshjain15/Certificate/main/portfolio1.jpg "
+    }
+  ]
+}
