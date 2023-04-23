@@ -7,7 +7,7 @@ import certificate from "../assets/certificate.json";
 
 const Certificate = () => {
   return (
-    <div id="Certificate">
+    <div id="work">
       <h2>Certificate</h2>
       <section>
         <article>
